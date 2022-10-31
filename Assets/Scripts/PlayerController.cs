@@ -14,10 +14,8 @@ public class PlayerController : MonoBehaviour
 
     public float oxygenCurrentCapacity;
 
-
     public float currentDepth;
     public float currentPressure;
-
 
     public GameObject SpawnPoints;
     public bool isShopOpen;
